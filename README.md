@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ## About Me :<br><br><br><br>🔭 **I’m currently working on** sharpening my core computer science fundamentals and building practical applications, including a personalized AI learning ecosystem project.<br><br><br><br>👯 **I’m looking to collaborate on** beginner-friendly open-source projects, hackathons, and software engineering challenges that solve everyday problems.<br><br><br><br>🤝 **I’m looking for help with** bridging the gap between academic coding and writing clean, production-ready software using industry best practices.<br><br><br><br>🌱 **I’m currently learning** how to apply machine learning models—like linear and logistic regression—to real-world datasets, along with exploring full-stack development frameworks.<br><br><br><br>💬 **Ask me about** Object-Oriented Programming in Java , DSA in C++, Python scripting, relational database design with SQL, or basic ML evaluation metrics like precision and recall!<br><br><br><br>⚡ **Fun fact:** I spend 80% of my time writing code, 20% of my time debugging, and 100% of my time wondering why it suddenly started working.
 
 
